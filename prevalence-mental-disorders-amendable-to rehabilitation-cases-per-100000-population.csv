@@ -1,26 +1,3 @@
-﻿"INDICATOR","REHAB_4"
-
-"REHAB_4","Prevalence of mental disorders amendable to rehabilitation - Cases per 100 000 population"
-
-"UNIT_TYPE","Unit"
-"CASES_100K","cases per 100 000 population"
-
-"EXTERNID","ID in the originating data source"
-
-"DATA_SOURCE","Data source"
-"REHAB","Estimating the need for rehabilitation in the WHO European Region"
-
-"DATA_TYPE_REPRESENTATION","Data type representation"
-"RATE","Rate"
-
-"DATA_SET","Data set"
-"REHAB","Estimating the need for rehabilitation in the WHO European Region"
-
-"SEX","Sex"
-"FEMALE","Female"
-"MALE","Male"
-"ALL","All"
-
 "COUNTRY","SEX","YEAR","VALUE"
 "ALB","ALL","1990","2063.56"
 "ALB","FEMALE","1990","1701.26"
