@@ -1,32 +1,4 @@
-﻿"INDICATOR","HFAMDB_657"
-
-"HFAMDB_657","Mental and behavioural disorders, number of deaths, by sex"
-
-"UNIT_TYPE","Unit"
-"NUM_DTH","number of deaths"
-
-"EXTERNID","ID in the originating data source"
-
-"DATA_SOURCE","Data source"
-"HFAMDB","European mortality database (MDB)"
-
-"DATA_TYPE_REPRESENTATION","Data type representation"
-"COUNT","Count"
-
-"DATA_SET","Data set"
-"HFAMDB","European mortality database (MDB)"
-
-"DATA_MASK","Mask for controlling the output format of values"
-
-"AGE_GRP_LIST","Age group"
-"TOTAL","Total"
-
-"SEX","Sex"
-"FEMALE","Female"
-"MALE","Male"
-"ALL","All"
-
-"COUNTRY","COUNTRY_GRP","AGE_GRP_LIST","SEX","YEAR","VALUE"
+COUNTRY,COUNTRY_GRP,AGE_GRP_LIST,SEX,YEAR,VALUE
 "ALB","","TOTAL","FEMALE","1987","0"
 "ALB","","TOTAL","FEMALE","1988","0"
 "ALB","","TOTAL","FEMALE","1989","0"
