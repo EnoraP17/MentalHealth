@@ -10,3 +10,5 @@
 - countries_continents_codes_flags_url.csv: https://www.kaggle.com/datasets/andreshg/countries-iso-codes-continent-flags-url
 - severity_of_current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh2c/default/table?lang=en
 - current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh1c/default/table?lang=en
+- prevalence-of-depression-males-vs-females.csv: https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset?resource=download&select=prevalence-of-depression-males-vs-females.csv
+- share-with-depression.csv: https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset?resource=download&select=share-with-depression.csv
