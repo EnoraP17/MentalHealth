@@ -9,4 +9,4 @@
 - age-standardized-suicide-rates.csv: https://www.who.int/data/gho/data/themes/mental-health/suicide-rates
 - countries_continents_codes_flags_url.csv: https://www.kaggle.com/datasets/andreshg/countries-iso-codes-continent-flags-url
 - severity_of_current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh2c/default/table?lang=en
-
+- current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh1c/default/table?lang=en
