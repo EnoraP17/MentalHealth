@@ -1,4 +1,4 @@
-Entity,Code,Year,Prevalence - Anxiety disorders - Sex: Male - Age: Age-standardized (Percent),Prevalence - Anxiety disorders - Sex: Female - Age: Age-standardized (Percent),Population (historical estimates),Continent
+Entity,Code,Year,Prevalence_male,Prevalence_female,Population,Continent
 Abkhazia,OWID_ABK,2015,,,,Asia
 Afghanistan,AFG,1990,3.56,5.97,10694804,
 Afghanistan,AFG,1991,3.55,5.98,10745168,
