@@ -12,4 +12,5 @@
 - current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh1c/default/table?lang=en
 - prevalence-of-depression-males-vs-females.csv: https://ourworldindata.org/mental-health
 - share-with-depression.csv: https://ourworldindata.org/mental-health
-
+- prevalence-of-anxiety-disorders-males-vs-females.csv: https://ourworldindata.org/mental-health
+- share-with-anxiety-disorders.csv: https://ourworldindata.org/mental-health
