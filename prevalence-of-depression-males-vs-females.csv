@@ -1,4 +1,4 @@
-Entity,Code,Year,Prevalence - Depressive disorders - Sex: Male - Age: Age-standardized (Percent),Prevalence - Depressive disorders - Sex: Female - Age: Age-standardized (Percent),Population (historical estimates),Continent
+Entity,Code,Year,Prevalence_male,Prevalence_female,Population,Continent
 Abkhazia,OWID_ABK,2015,,,,Asia
 Afghanistan,AFG,1990,4.29,5.86,10694804,
 Afghanistan,AFG,1991,4.29,5.85,10745168,
