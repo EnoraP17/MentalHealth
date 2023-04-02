@@ -14,3 +14,4 @@
 - share-with-depression.csv: https://ourworldindata.org/mental-health
 - prevalence-of-anxiety-disorders-males-vs-females.csv: https://ourworldindata.org/mental-health
 - share-with-anxiety-disorders.csv: https://ourworldindata.org/mental-health
+- frequency-depressive-symptoms-us.csv: https://ourworldindata.org/mental-health
