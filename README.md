@@ -14,4 +14,6 @@
 - share-with-depression.csv: https://ourworldindata.org/mental-health
 - prevalence-of-anxiety-disorders-males-vs-females.csv: https://ourworldindata.org/mental-health
 - share-with-anxiety-disorders.csv: https://ourworldindata.org/mental-health
+- symptoms_depression.csv: made from the data of the following article "Depression is not a consistent syndrome: An investigation of unique symptom patterns in the STAR*D study" by Eiko I. Fried a,n, Randolph M. Nesse
+- 
 
