@@ -15,5 +15,13 @@
 - prevalence-of-anxiety-disorders-males-vs-females.csv: https://ourworldindata.org/mental-health
 - share-with-anxiety-disorders.csv: https://ourworldindata.org/mental-health
 - symptoms_depression.csv: made from the data of the following article "Depression is not a consistent syndrome: An investigation of unique symptom patterns in the STAR*D study" by Eiko I. Fried a,n, Randolph M. Nesse
-- 
+- government_expenditures_on_mental_hospitals.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/government-expenditures-on-mental-hospitals-as-a-percentage-of-total-government-expenditures-on-mental-health-(-)
+- stand_alone_policy_plan_for_mental_health.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/stand-alone-policy-or-plan-for-mental-health
+- mental_health_policy.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/policy-and-financing
+- mental_health_units_in_general_hospitals.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-health-units-in-general-hospitals-(per-100-000)
+- mental_hospitals.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-hospitals-(per-100-000)
+- psychiatrists_working_in_mental_health_sector.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/psychiatrists-working-in-mental-health-sector-(per-100-000)
+- psychologists_working_in_mental_health_sector.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/psychologists-working-in-mental-health-sector-(per-100-000)
+
+
 
