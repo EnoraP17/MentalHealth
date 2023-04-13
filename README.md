@@ -20,6 +20,8 @@
 - mental_hospitals.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mental-hospitals-(per-100-000)
 - psychiatrists_working_in_mental_health_sector.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/psychiatrists-working-in-mental-health-sector-(per-100-000)
 - psychologists_working_in_mental_health_sector.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/psychologists-working-in-mental-health-sector-(per-100-000)
+- main_types_functioning_promotion_prevention_programme.csv: made from "Mental health Atlas 2020" from WHO 
+
 
 
 
