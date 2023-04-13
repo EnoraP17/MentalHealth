@@ -10,9 +10,7 @@
 - countries_continents_codes_flags_url.csv: https://www.kaggle.com/datasets/andreshg/countries-iso-codes-continent-flags-url
 - severity_of_current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh2c/default/table?lang=en
 - current_depressive_symptoms_by_sex_age_country.csv: https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_mh1c/default/table?lang=en
-- prevalence-of-depression-males-vs-females.csv: https://ourworldindata.org/mental-health
 - share-with-depression.csv: https://ourworldindata.org/mental-health
-- prevalence-of-anxiety-disorders-males-vs-females.csv: https://ourworldindata.org/mental-health
 - share-with-anxiety-disorders.csv: https://ourworldindata.org/mental-health
 - symptoms_depression.csv: made from the data of the following article "Depression is not a consistent syndrome: An investigation of unique symptom patterns in the STAR*D study" by Eiko I. Fried a,n, Randolph M. Nesse
 - government_expenditures_on_mental_hospitals.csv: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/government-expenditures-on-mental-hospitals-as-a-percentage-of-total-government-expenditures-on-mental-health-(-)
